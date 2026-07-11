@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+hosting_uploads/
+hosting_data/
+*.db
+*.json
+.env
