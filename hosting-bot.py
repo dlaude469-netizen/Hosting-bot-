@@ -41,7 +41,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "🚀 HOSTING BOT v3.1 - Script Execution"
+    return "🚀AXXU HOSTING BOT v3.1 - Script Execution"
 
 def run_flask():
     try:
